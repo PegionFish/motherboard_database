@@ -3,5 +3,5 @@
 ### 自有品牌
 #### 技嘉 GIGABYTE
 * [技嘉/GIGABYTE GA-G41MT-S2](board\gigabyte\GA-G41MT-S2.md)
-
+    
 ### OEM品牌

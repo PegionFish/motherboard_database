@@ -21,4 +21,6 @@
 * No
 ### CPU插槽/CPU Socket
 LGA 775
+### 内存插槽/Memory Slot
+2
 ## 供电/Power
