@@ -1,2 +1,2 @@
-# motherboard_log
-A Website based Motherboard database
+# New Laptop Database
+A GitHub Pages website for new laptops.
